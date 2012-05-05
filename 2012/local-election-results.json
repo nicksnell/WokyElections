@@ -1,0 +1,183 @@
+[
+{
+	"ward": "Bulmershe and Whitegates",
+	"candidates": [
+		{"name": "Bello, Greg", "party": "Labour", "votes": 750},
+		{"name": "Hayward, Lesley Marie", "party": "Liberal Democrat", "votes": 976},
+		{"name": "Khan, Billy", "party": "UKIP", "votes": 137},
+		{"name": "Parvaiz, Mohammed", "party": "Conservative", "votes": 660},
+		{"name": "Windisch, Adrian", "party": "Green", "votes": 106}
+	],
+	"spoilt": 12
+},
+{
+	"ward": "Charvil",
+	"candidates": [
+		{"name": "Hobbs, Emma Antoinette", "party": "Conservative", "votes": 382},
+		{"name": "O'Callaghan, James Brian", "party": "Green", "votes": 44},
+		{"name": "Ray, Nick", "party": "Independent", "votes": 414},
+		{"name": "Storry, Malcolm", "party": "Liberal Democrat", "votes": 42}
+	],
+	"spoilt": 2
+},
+{
+	"ward": "Emmbrook",
+	"candidates": [
+		{"name": "Clark, Ullakarin", "party": "Conservative", "votes": 1202},
+		{"name": "Sharples, Paul Grant", "party": "Labour", "votes": 313},
+		{"name": "McMillan, Steven George", "party": "UKIP", "votes": 330},
+		{"name": "Jeganathan, Suresh Kumar", "party": "Liberal Democrat", "votes": 291}
+	],
+	"spoilt": 15
+},
+{
+	"ward": "Evendons",
+	"candidates": [
+		{"name": "King, Dianne Maureen", "party": "Conservative", "votes": 967},
+		{"name": "Skuse, Anthony George", "party": "Labour", "votes": 286},
+		{"name": "Spencer, Mike", "party": "UKIP", "votes": 278},
+		{"name": "Scarrott, Steven", "party": "Liberal Democrat", "votes": 388}
+	],
+	"spoilt": 8
+},
+{
+	"ward": "Finchampstead North Ward",
+	"candidates": [
+		{"name": "Gore, Mike", "party": "Conservative", "votes": 1038},
+		{"name": "Jinkerson, Tim", "party": "Labour", "votes": 193},
+		{"name": "Foss, Martyn Graeme", "party": "Green", "votes": 124},
+		{"name": "Neall, Roy", "party": "Liberal Democrat", "votes": 121}
+	],
+	"spoilt": 8
+},
+{
+	"ward": "Finchampstead South Ward",
+	"candidates": [
+		{"name": "Pittock, Ian Michael", "party": "Conservative", "votes": 843},
+		{"name": "Valler, Matthew James", "party": "Green", "votes": 241},
+		{"name": "Cundy, Roland Henry", "party": "Liberal Democrat", "votes": 345}
+	],
+	"spoilt": 18
+},
+{
+	"ward": "Hawkedon",
+	"candidates": [
+		{"name": "Grandison, Guy William McClaren", "party": "Conservative", "votes": 688},
+		{"name": "Waites, Neville Herbert", "party": "Labour", "votes": 278},
+		{"name": "Prior, John Sylvester", "party": "Green", "votes": 97},
+		{"name": "Vick, Anthony Paul", "party": "Liberal Democrat", "votes": 402},
+		{"name": "Jackson, Peter Stewart", "party": "UKIP", "votes": 142}
+	],
+	"spoilt": 2
+},
+{
+	"ward": "Hillside",
+	"candidates": [
+		{"name": "Jorgensen, Pauline Alison", "party": "Conservative", "votes": 1062},
+		{"name": "Sharp, David Andrew", "party": "Labour", "votes": 317},
+		{"name": "Cherry, Helene Elizabeth", "party": "Green", "votes": 241},
+		{"name": "Yabsley, Keith Maurice", "party": "Liberal Democrat", "votes": 465}
+	],
+	"spoilt": 20
+},
+{
+	"ward": "Hurst",
+	"candidates": [
+		{"name": "Smith, Wayne", "party": "Conservative", "votes": 562},
+		{"name": "Ummat, Umesh", "party": "Labour", "votes": 62},
+		{"name": "Montie, Paula", "party": "Green", "votes": 79},
+		{"name": "Trott, Paul", "party": "Liberal Democrat", "votes": 83}
+	],
+	"spoilt": 3
+},
+{
+	"ward": "Loddon",
+	"candidates": [
+		{"name": "Soane, Bill", "party": "Conservative", "votes": 751},
+		{"name": "Clark, Tom", "party": "Labour", "votes": 303},
+		{"name": "Titus, Julia", "party": "Green", "votes": 132},
+		{"name": "McCann, Tom", "party": "Liberal Democrat", "votes": 846}
+	],
+	"spoilt": 10
+},
+{
+	"ward": "Maiden Erlegh",
+	"candidates": [
+		{"name": "Miall, Ken", "party": "Conservative", "votes": 966},
+		{"name": "Rupert, Jacqueline Earla", "party": "Labour", "votes": 373},
+		{"name": "Marshall, Nicholas", "party": "Green", "votes": 238},
+		{"name": "Hare, David", "party": "Liberal Democrat", "votes": 528}
+	],
+	"spoilt": 14
+},
+{
+	"ward": "Norreys",
+	"candidates": [
+		{"name": "Richards, Malcolm Llewellyn", "party": "Conservative", "votes": 959},
+		{"name": "Gascoyne, Mary", "party": "Labour", "votes": 315},
+		{"name": "Hamilton, Emma-Louise", "party": "Green", "votes": 120},
+		{"name": "Bray, John Charles", "party": "Liberal Democrat", "votes": 268},
+		{"name": "Knight, Keith John", "party": "UKIP", "votes": 212},
+		{"name": "Smith, Robin", "party": "Independent", "votes": 82}
+	],
+	"spoilt": 9
+},
+{
+	"ward": "Remenham, Wargrave and Ruscombe",
+	"candidates": [
+		{"name": "Halsall, John Anthony Sydney", "party": "Conservative", "votes": 937},
+		{"name": "Dent, Matthew Stephen", "party": "Labour", "votes": 172},
+		{"name": "Alder, Martin George", "party": "Liberal Democrat", "votes": 248}
+	],
+	"spoilt": 10
+},
+{
+	"ward": "Shinfield South",
+	"candidates": [
+		{"name": "Haitham-Taylor, Charlotte Jacqueline Louise", "party": "Conservative", "votes": 893},
+		{"name": "Bisset, Marjory Diane", "party": "Green", "votes": 473},
+		{"name": "Shepherd-Duby, Imogen", "party": "Liberal Democrat", "votes": 141}
+	],
+	"spoilt": 10
+},
+{
+	"ward": "Twyford",
+	"candidates": [
+		{"name": "Hawkins, Sam Kenneth", "party": "Conservative", "votes": 527},
+		{"name": "Fort, Richard James", "party": "Labour", "votes": 159},
+		{"name": "Ewan, James Michael McKinley", "party": "Green", "votes": 118},
+		{"name": "Ferris, Lindsay Thomas Herbert", "party": "Liberal Democrat", "votes": 1011}
+	],
+	"spoilt": 14
+},
+{
+	"ward": "Wescott",
+	"candidates": [
+		{"name": "Wyatt, Bob", "party": "Conservative", "votes": 679},
+		{"name": "Woodward, John", "party": "Labour", "votes": 166},
+		{"name": "Lokuciewski, Kazek Christian Jan", "party": "Green", "votes": 187},
+		{"name": "Leask, James Andrew", "party": "Liberal Democrat", "votes": 158},
+		{"name": "Howell, Stella Hermoine", "party": "UKIP", "votes": 135}
+	],
+	"spoilt": 6
+},
+{
+	"ward": "Winnersh",
+	"candidates": [
+		{"name": "Ashwell, Mark Austin", "party": "Conservative", "votes": 961},
+		{"name": "Baker, John Robert", "party": "Labour", "votes": 175},
+		{"name": "Shepherd-Dubey, Rachelle", "party": "Liberal Democrat", "votes": 1183},
+		{"name": "Pollock, Tony", "party": "UKIP", "votes": 183}
+	],
+	"spoilt": 11
+},
+{
+	"ward": "Wokingham Without",
+	"candidates": [
+		{"name": "Helliar-Symons, Pauline Elizabeth", "party": "Conservative", "votes": 1268},
+		{"name": "Blomley, Thomas Nils Kjolsen", "party": "Green", "votes": 178},
+		{"name": "Spratling, Elaine", "party": "Liberal Democrat", "votes": 147},
+		{"name": "Widdows, Graham", "party": "UKIP", "votes": 316}
+	],
+	"spoilt": 11
+}]
