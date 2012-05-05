@@ -95,7 +95,6 @@ def generate_chart(results, save_to):
 	
 if __name__ == '__main__':
 	results = get_total_results('2012/local-election-results.json')
-	
 	generate_results_table(results)
 	generate_chart(results, '2012/local-election-results.png')
 	
