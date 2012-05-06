@@ -32,7 +32,8 @@ MAX_BUBBLE_SIZE = 110
 
 def vote_visualization_for_party(results, party, color=(33, 86, 175), 
 	outline=(28, 72, 145)):
-	"""Draw a map with areas displayed proportionally"""
+	"""Draw a map with votes displayed in bubbles proportional to 
+	the total votes recieved in other areas"""
 	
 	# Get the results for each ward
 	results_by_ward = get_results_for_party(results, party)
@@ -73,7 +74,7 @@ def vote_visualization_for_party(results, party, color=(33, 86, 175),
 	# Save our image
 	img.save(os.path.join(
 		wd,
-		'2012/vote-visualisation-%s.png' % party.lower().replace(' ', '-')
+		'2012/vote-vis-party-%s.png' % party.lower().replace(' ', '-')
 	))
 
 if __name__ == '__main__':
