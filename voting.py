@@ -7,14 +7,34 @@ import json
 from ptable import Table
 from pygooglechart import Chart, PieChart2D
 
-def get_total_results(json_results):
-	"""Generate totals for each party"""
-	
+def _get_results(json_results):
 	wd = os.path.dirname(os.path.realpath(__file__))
 	json_file = os.path.join(wd, json_results)
 	
 	f = open(json_file)
 	data = json.load(f)
+	
+	return data
+
+def get_results_for_party(json_results, party):
+	"""Get the results for a party by ward"""
+	
+	data = _get_results(json_results)
+	
+	wards = {}
+	
+	for result in data:
+		for candidate in result['candidates']:
+			if candidate['party'] == party:
+				wards[result['ward']] = candidate['votes']
+				break
+				
+	return wards
+
+def get_total_results(json_results):
+	"""Generate totals for each party"""
+	
+	data = _get_results(json_results)
 	
 	total_results = {}
 	
