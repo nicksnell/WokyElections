@@ -1,2 +1,2 @@
 pygooglechart
-PIL
+pillow

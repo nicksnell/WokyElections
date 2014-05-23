@@ -1,0 +1,190 @@
+[
+{
+	"ward": "Arborfield Ward",
+	"candidates": [
+		{"name": "Bacon, Stephen Paul", "party": "Liberal Democrat", "votes": 200},
+		{"name": "Bateson, Robin Trevor", "party": "UKIP", "votes": 113},
+		{"name": "Cowan, Gary", "party": "Conservative", "votes": 450}
+	],
+	"spoilt": 3
+},
+{
+	"ward": "Bulmershe and Whitegates",
+	"candidates": [
+		{"name": "Jerrome, Nicky", "party": "Labour", "votes": 967},
+		{"name": "Rahmouni, Sam", "party": "Liberal Democrat", "votes": 499},
+		{"name": "Jackson, Peter Stewart", "party": "UKIP", "votes": 423},
+		{"name": "Mills, Dave", "party": "Conservative", "votes": 760},
+		{"name": "Windisch, Adrian", "party": "Green", "votes": 173}
+	],
+	"spoilt": 17
+},
+{
+	"ward": "Coronation",
+	"candidates": [
+		{"name": "Baker, Keith James", "party": "Conservative", "votes": 1171},
+		{"name": "White, Louise", "party": "Green", "votes": 133},
+		{"name": "Bartlett, Tony", "party": "UKIP", "votes": 258},
+		{"name": "Power, Paddy", "party": "Liberal Democrat", "votes": 248},
+		{"name": "McLaughlin, Danny", "party": "Labour", "votes": 182}
+	],
+	"spoilt": 6
+},
+{
+	"ward": "Emmbrook",
+	"candidates": [
+		{"name": "Clark, Ullakarin", "party": "Conservative", "votes": 1202},
+		{"name": "Sharples, Paul Grant", "party": "Labour", "votes": 313},
+		{"name": "McMillan, Steven George", "party": "UKIP", "votes": 330},
+		{"name": "Jeganathan, Suresh Kumar", "party": "Liberal Democrat", "votes": 291}
+	],
+	"spoilt": 15
+},
+{
+	"ward": "Evendons",
+	"candidates": [
+		{"name": "Ashwell, Mark", "party": "Conservative", "votes": 1227},
+		{"name": "Skuse, Tony", "party": "Labour", "votes": 292},
+		{"name": "North, Toby", "party": "UKIP", "votes": 437},
+		{"name": "Bray, John Charles", "party": "Liberal Democrat", "votes": 598},
+		{"name": "Lokuciewski, Kaz", "party": "Independent", "votes": 71}
+	],
+	"spoilt": 14
+},
+{
+	"ward": "Finchampstead North Ward",
+	"candidates": [
+		{"name": "Stanton, Rob", "party": "Conservative", "votes": 115},
+		{"name": "Jinkerson, Tim", "party": "Labour", "votes": 139},
+		{"name": "Foss, Martyn Graeme", "party": "Green", "votes": 92},
+		{"name": "Neall, Roy", "party": "Liberal Democrat", "votes": 198},
+		{"name": "Murdoch, Jason", "party": "UKIP", "votes": 301}
+	],
+	"spoilt": 4
+},
+{
+	"ward": "Finchampstead South Ward",
+	"candidates": [
+		{"name": "Croy, Andrew Crawford", "party": "Labour", "votes": 141},
+		{"name": "Weeks, Simon Philip", "party": "Conservative", "votes": 1024},
+		{"name": "Valler, Matt", "party": "Green", "votes": 129},
+		{"name": "May, James", "party": "Liberal Democrat", "votes": 171},
+		{"name": "Ellis, Annette", "party": "UKIP", "votes": 357}
+	],
+	"spoilt": 5
+},
+{
+	"ward": "Hawkedon",
+	"candidates": [
+		{"name": "Firmager, Michael John", "party": "Conservative", "votes": 925},
+		{"name": "Waites, Neville Herbert", "party": "Labour", "votes": 299},
+		{"name": "Jones, Clive Richard", "party": "Liberal Democrat", "votes": 862},
+		{"name": "Green, John Kennedy", "party": "UKIP", "votes": 358}
+	],
+	"spoilt": 12
+},
+{
+	"ward": "Hillside",
+	"candidates": [
+		{"name": "Smith, Christopher Philip", "party": "Conservative", "votes": 1230},
+		{"name": "Sharp, David Andrew", "party": "Labour", "votes": 406},
+		{"name": "Moore, Chris", "party": "UKIP", "votes": 433},
+		{"name": "Yabsley, Keith Maurice", "party": "Liberal Democrat", "votes": 620}
+	],
+	"spoilt": 14
+},
+{
+	"ward": "Loddon",
+	"candidates": [
+		{"name": "Soane, Bill", "party": "Conservative", "votes": 1009},
+		{"name": "Clark, Tom", "party": "Labour", "votes": 355},
+		{"name": "Titus, Julia", "party": "Green", "votes": 159},
+		{"name": "Maher, Tahir", "party": "Liberal Democrat", "votes": 419},
+		{"name": "Brooks, Bill", "party": "UKIP", "votes": 493}
+	],
+	"spoilt": 8
+},
+{
+	"ward": "Maiden Erlegh",
+	"candidates": [
+		{"name": "Swaddle, Paul Stanley", "party": "Conservative", "votes": 1045},
+		{"name": "Rupert, Jacqueline Earla", "party": "Labour", "votes": 418},
+		{"name": "Seymour, Russell Stewart", "party": "Green", "votes": 266},
+		{"name": "Hare, David Andrew", "party": "Liberal Democrat", "votes": 502},
+		{"name": "Ray, Philip", "party": "UKIP", "votes": 399}
+	],
+	"spoilt": 12
+},
+{
+	"ward": "Norreys",
+	"candidates": [
+		{"name": "Lee, David George", "party": "Conservative", "votes": 1080},
+		{"name": "Sharples, Paul Grant", "party": "Labour", "votes": 285},
+		{"name": "Hamilton, Emma-Louise", "party": "Green", "votes": 181},
+		{"name": "Scarrott, Steven", "party": "Liberal Democrat", "votes": 468},
+		{"name": "Cunnington, Philip David", "party": "UKIP", "votes": 567}
+	],
+	"spoilt": 16
+},
+{
+	"ward": "Remenham, Wargrave and Ruscombe",
+	"candidates": [
+		{"name": "Pitts, Robert Anthony", "party": "Conservative", "votes": 1013},
+		{"name": "Crainer, Stuart George", "party": "Labour", "votes": 155},
+		{"name": "Alder, Martin George", "party": "Liberal Democrat", "votes": 197},
+		{"name": "O'Callaghan, James Brian", "party": "Green", "votes": 111},
+		{"name": "Heape, Andy", "party": "UKIP", "votes": 269}
+	],
+	"spoilt": 13
+},
+{
+	"ward": "Shinfield South",
+	"candidates": [
+		{"name": "Patman, Barrie John Samuel", "party": "Conservative", "votes": 952},
+		{"name": "Prior, John Sylvester", "party": "Green", "votes": 241},
+		{"name": "Malvern, Keith Andrew", "party": "Liberal Democrat", "votes": 141},
+		{"name": "Hadfield, Barry Edward", "party": "Liberal Democrat", "votes": 414}
+	],
+	"spoilt": 21
+},
+{
+	"ward": "South Lake",
+	"candidates": [
+		{"name": "Blumenthal, Laura Katherine", "party": "Conservative", "votes": 462},
+		{"name": "Hills, Ian Reginald", "party": "Labour", "votes": 222},
+		{"name": "Prior, Pamela Jean", "party": "Green", "votes": 85},
+		{"name": "Rowland, Beth", "party": "Liberal Democrat", "votes": 535},
+		{"name": "Robinson, Timothy Benjamin", "party": "UKIP", "votes": 275}
+	],
+	"spoilt": 11
+},
+{
+	"ward": "Swallowfield",
+	"candidates": [
+		{"name": "Munro, Stuart Ian", "party": "Conservative", "votes": 558},
+		{"name": "Blomley, Thomas Nils Kjolsen", "party": "Green", "votes": 118},
+		{"name": "Smith, Caroline Ann", "party": "Liberal Democrat", "votes": 79},
+		{"name": "Bowker, Max Filmer", "party": "UKIP", "votes": 217}
+	],
+	"spoilt": 3
+},
+{
+	"ward": "Winnersh",
+	"candidates": [
+		{"name": "Gordon-Walker, Lee Thomas", "party": "Conservative", "votes": 711},
+		{"name": "Stanton, Steve", "party": "Labour", "votes": 184},
+		{"name": "Bray, Prue", "party": "Liberal Democrat", "votes": 1474},
+		{"name": "Hannington, Tony", "party": "UKIP", "votes": 405}
+	],
+	"spoilt": 12
+},
+{
+	"ward": "Wokingham Without",
+	"candidates": [
+		{"name": "Ross, Angus James", "party": "Conservative", "votes": 1415},
+		{"name": "O'Neill, Penelope Ann", "party": "Labour", "votes": 311},
+		{"name": "Vick, Anthony Paul", "party": "Liberal Democrat", "votes": 176},
+		{"name": "Ellis, Marcus Heath", "party": "UKIP", "votes": 584}
+	],
+	"spoilt": 18
+}]
